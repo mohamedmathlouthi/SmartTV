@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/new/prefix1"/>
+    <qresource prefix="/">
+        <file>../thead.png</file>
+        <file>../Sign In (1).png</file>
+        <file>../Trash_no.png</file>
+        <file>../pen.png</file>
+        <file>../em.png</file>
+        <file>../emm.png</file>
+        <file>../home.png</file>
+        <file>../spectateur.png</file>
+        <file>../spon.png</file>
+        <file>../stidio.png</file>
+        <file>../scroller.png</file>
+        <file>../Loupe.png</file>
+        <file>../Studios.png</file>
+        <file>../pen 1.png</file>
+        <file>../trash.png</file>
+        <file>../log_out.png</file>
+        <file>../Solid_white.png</file>
+        <file>../Tv_tally_mtarfeskhir 1.png</file>
+        <file>../pen2.png</file>
+        <file>../Trash2.png</file>
+    </qresource>
+</RCC>
